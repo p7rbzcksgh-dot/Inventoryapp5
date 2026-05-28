@@ -1,0 +1,14 @@
+.nojekyll
+FILE_LIST.txt
+INTERNAL_LINKING_NOTES.txt
+README_GITHUB_UPLOAD.txt
+apple-touch-icon.png
+index.html
+inventory-wizard-bg.png
+inventoryapp-icon-192.png
+inventoryapp-icon.png
+inventoryapp-thumbnail.png
+manifest.json
+service-worker.js
+tcg-cogs-branding.png
+tcg-logo-transparent.png

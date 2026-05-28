@@ -1,0 +1,10 @@
+TCG InventoryApp internal linking placeholders
+
+Default placeholder links included in the dashboard:
+- TEAMAPP: teamapp__index.html
+- BOMAPP: bomapp__index.html
+- PRODAPP: prodapp__index.html
+- SOP WIZARD: sopwizard__index.html
+
+When this is dropped into the TEAMAPP flat package, keep these file names or update the links.
+Manufacturing orders are local/static for now. When a backend is added, the same fields can connect to live inventory transactions.
